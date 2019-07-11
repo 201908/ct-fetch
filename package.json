@@ -1,0 +1,20 @@
+{
+  "name": "ct-fetch",
+  "version": "1.0.0",
+  "description": "制作属于自己的请求模块 米斯特吴",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ms-fetch",
+    "fetch",
+    "axios",
+    "ajax"
+  ],
+  "author": "米斯特吴",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
