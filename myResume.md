@@ -21,7 +21,8 @@
 工作内容：
 1.	电脑端软件嵌套网页：软件管家、今日热点、大番茄一键重装系统、好卓手游神器等等
 2.	PC端(更多项目请看4)：https://www.nanrenwo.net/
-3.	手机端(更多项目请看4)：http://chenteng.top/boying/boying-product/%e4%b8%8b%e8%bd%bd%e4%b9%8b%e5%ae%b6/m/dist/home.html、https://m.nanrenwo.net/ 
+3.	手机端(更多项目请看4)：http://chenteng.top/boying/boying-product/xiazaizhijia/m/dist/home.html(更多页面请看http://chenteng.top/boying/boying-product/xiazaizhijia/m/dist/ )、
+https://m.nanrenwo.net/ 
 4.	项目demo: http://chenteng.top/boying/boying-product/
 5.	与php工程师配合完成项目
 
@@ -44,7 +45,9 @@
 3.	http://movie.chenteng.top	(技术栈：vue-cli2.x + vue-router + vux + axios)
 4.	http://movie3.chenteng.top	(技术栈：vue-cli3.x + vue-router + weui + weui.js + mint-ui + axios)
 5.	pc端：http://customer.chenteng.top	(技术栈：vue-cli3.x + vue-router)
+
 四、	react作品：http://react.chenteng.top (技术栈：react + weui + react-weui + react-router-dom)
+
 五、	微信小程序作品：搜索“记录美好人生”	(技术栈：vue2.x + mpvue + vuex + weui + 小程序云开发)
 
 
