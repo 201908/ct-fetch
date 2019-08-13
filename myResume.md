@@ -21,7 +21,7 @@
 工作内容：
 1.	电脑端软件嵌套网页：软件管家、今日热点、大番茄一键重装系统、好卓手游神器等等
 2.	PC端(更多项目请看4)：https://www.nanrenwo.net/
-3.	手机端(更多项目请看4)：http://chenteng.top/boying/boying-product/xiazaizhijia/m/dist/home.html(更多页面请看http://chenteng.top/boying/boying-product/xiazaizhijia/m/dist/ )、
+3.	手机端(更多项目请看4)：http://chenteng.top/boying/boying-product/xiazaizhijia/m/dist/home.html (更多页面请看http://chenteng.top/boying/boying-product/xiazaizhijia/m/dist/ )、
 https://m.nanrenwo.net/ 
 4.	项目demo: http://chenteng.top/boying/boying-product/
 5.	与php工程师配合完成项目
