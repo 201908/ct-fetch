@@ -1,6 +1,6 @@
-# 个人简历
+<h2 align="center">个人简历</h2>
 
-## 工作经历
+### 工作经历
 
 一、2018年12月-2019年1月          厦门贝比科技有限公司             前端开发
 	工作内容：
@@ -28,7 +28,7 @@
 2.	Flash接口联调
 3.	与as工程师配合完成项目，所做项目是腾讯公司广告客户的活动网站
 
-## 个人作品
+### 个人作品
 
 一、	前端作品：http://chenteng.top/boying/boying-project/demos/
 二、	组件化：http://chenteng.top/boying/boying-project/component/pc.html
@@ -42,7 +42,7 @@
 五、	微信小程序作品：搜索“记录美好人生”	(技术栈：vue2.x + mpvue + vuex + weui + 小程序云开发)
 
 
-## 专业技能
+### 专业技能
 
 1.	熟悉vue全家桶vue + vue-router + vuex + axios + sass/less
 2.	熟悉vue ui框架：element-ui + mint-ui +  vux + iView + vant等等
