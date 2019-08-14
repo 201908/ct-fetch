@@ -43,7 +43,7 @@ https://m.nanrenwo.net/
 1.	pc端：http://www.travelatchina.com/view/index.html  (技术栈：vue引入的方式 + jquery + element-ui + vue-lazyload)
 2.	vuex和localStorage的结合使用：http://pizza.chenteng.top/ 
 3.	http://movie.chenteng.top	(技术栈：vue-cli2.x + vue-router + vux + axios)
-4.	http://movie3.chenteng.top	(技术栈：vue-cli3.x + vue-router + weui + weui.js + mint-ui + axios)
+4.	http://movie3.chenteng.top	(技术栈：vue-cli3.x + vue-router + weui + weui.js + mint-ui + axios + vant + rem)
 5.	pc端：http://customer.chenteng.top	(技术栈：vue-cli3.x + vue-router)
 
 四、	react作品：http://react.chenteng.top (技术栈：react + weui + react-weui + react-router-dom)
