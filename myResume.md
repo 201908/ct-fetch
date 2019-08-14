@@ -5,7 +5,7 @@
 一、2018年12月-2019年1月          厦门贝比科技有限公司             前端开发
 
 工作内容：
-1.	小程序后台管理系统(原生工具开发)
+1.	小程序后台管理系统(原生框架开发)
 2.	vue后台管理系统demo：http://babit_admin.chenteng.top/
 (技术栈：vue + typescript + element-ui + vue-router + axios + vuex + sass)
 3.	接口联调与go工程师配合完成项目
